@@ -16,15 +16,15 @@ sudo yum update -y
 # setup some variables
 
 echo "\
-export YOUR_GITHUB_USER='thywoof'
+export YOUR_GITHUB_USER='pablohaedo'
 
-export YOUR_NAME='Winston Wolfe'
-export YOUR_COMPANY_NAME='Marsellus Wallace Inc.'
+export YOUR_NAME='Pablo Haedo'
+export YOUR_COMPANY_NAME='Argenprop'
 
 export YOUR_LICENSE_KEY=cec283018fe0214f68b46ecc1223ffc43818d5ca
 
 export YOUR_AWS_REGION='us-west-2'
-export YOUR_CLUSTER_NAME='winston-wolf'
+export YOUR_CLUSTER_NAME='pablo-h'
 export YOUR_PASSPHRASE='I-Am-Get-Medieval-On-Your-SaaS'
 
 export YOUR_USERS_SERVICE_URL=http://localhost:3002
